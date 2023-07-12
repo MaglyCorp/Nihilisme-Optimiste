@@ -37,7 +37,13 @@ p{
   font-size: 1.1rem;
 }
 
-.imgArticle, .articleImg{
+.articleImg {
+    width: 50%;
+    border-radius: 10px;
+
+}
+
+.imgArticle{
     width: 70%;
     border-radius: 10px;
     margin: auto;
